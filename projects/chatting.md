@@ -17,4 +17,6 @@ Note: No GUI Needed. Just Command-line application is fine.
 ## Taking it to the next level
 1. Once user has seen a message, it should get deleted. 
 2. Once user has seen a post, it should get removed from my feed. 
+
 3. Add hobbies section and suggest friends based on matching hobbies. (Is this the only criteria? Can it be more versatile?)
+4. get..
